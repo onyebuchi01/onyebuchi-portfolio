@@ -1,0 +1,83 @@
+body{
+    background-image: url(../image/wallpaper3.jpg);
+    background-size: cover;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.topnav{
+    background-color: white;
+    width: 100%;
+    color: black;
+    margin-left: 0;
+    margin-right: 0;
+}
+a{
+    font-size: large;
+    position: relative;
+    left: 40%;
+}
+.a1{
+    position: inherit;
+}
+.a2{
+    position: inherit;
+}
+.a3{
+    position: inherit;
+}
+.para{
+    line-height: 1.2;
+    color: rgb(0, 6, 12);
+}
+a:link{
+    color: blue;
+}
+a:visited{
+    color:blue
+}
+a:hover{
+    color: green;
+}
+a:active{
+    color:gray
+}
+.q1{
+    border: 1px solid black;
+    margin-left: 100px;
+    margin-right: 5px;
+    background-color:gold;
+}
+.control1{
+    width: 350px;
+}
+.control2{
+    width: 322px;
+}
+.control3{
+    width: 318px;
+}
+.textarea{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.type{
+    width: 395px;
+    margin-top: 10px;
+}
+.btn{
+    background-color: grey;
+    margin-left: 10px;
+}
+.name{
+    margin-left: 10px;
+}
+.Email1{
+    margin-left: 10px;
+}
+.number{
+    margin-left: 10px;
+}
+iframe{
+    margin-left: 10px;
+    margin-top: 40px;
+}
